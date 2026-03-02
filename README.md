@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sakura-jue-chen
 - 😄 I’m a second year college student majoring in computer science
-- 👀 I have mastered c/c++, python, html, css, vue and 
+- 👀 I have mastered c/c++, python, html, css, vue and ...
 - 🌱 I’m currently learning Java and MySQL
 - 😄 Hope to get a nice job in the future.
 
